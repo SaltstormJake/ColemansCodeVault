@@ -1,0 +1,68 @@
+#-----------------------------------------------
+# This file defines a graph.  The data defining
+# each node is in the following format:
+# NodeID
+# DataString
+# NumLinks
+# Link1
+# Link2
+#  ...
+# LinkN
+# The first data line gives the number of nodes
+#  in the graph
+#-----------------------------------------------
+8
+
+0
+Data string for node 0
+1
+2
+
+1
+Data string for node 1
+2
+3
+7
+
+2
+Data string for node 2
+3
+0
+3
+5
+
+3
+Data string for node 3
+4
+1
+2
+4
+6
+
+4
+Data string for node 4
+3
+3
+6
+7
+
+5
+Data string for node 5
+2
+2
+6
+
+6
+Data string for node 6
+4
+3
+4
+5
+7
+
+7
+Data string for node 7
+3
+1
+4
+6
