@@ -348,3 +348,20 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/Java/JavaDrawingDemo/nbproject/private/
+/Java/JavaDrawingDemo/build/
+/CS 103/Java Graphics/nbproject/private/
+/CS 103/Java Graphics/build/
+/CS 103/Graphics in Java/nbproject/private/
+/CS 103/Graphics in Java/build/
+
+
+# Netbeans
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
