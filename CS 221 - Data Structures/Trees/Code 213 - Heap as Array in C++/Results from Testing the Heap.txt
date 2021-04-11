@@ -1,0 +1,56 @@
+Results from Testing the Heap
+
+Building the heap and adding items
+
+Elements in the heap.
+Heap element 0. key=789  data=7.89
+Heap element 1. key=456  data=4.56
+Heap element 2. key=678  data=6.78
+Heap element 3. key=123  data=1.23
+Heap element 4. key=345  data=3.45
+Heap element 5. key=234  data=2.34
+Heap element 6. key=567  data=5.67
+
+Dequeuing items from the heap.
+
+Dequeueing 789
+Elements in the heap.
+Heap element 0. key=678  data=6.78
+Heap element 1. key=456  data=4.56
+Heap element 2. key=567  data=5.67
+Heap element 3. key=123  data=1.23
+Heap element 4. key=345  data=3.45
+Heap element 5. key=234  data=2.34
+
+Dequeueing 678
+Elements in the heap.
+Heap element 0. key=567  data=5.67
+Heap element 1. key=456  data=4.56
+Heap element 2. key=234  data=2.34
+Heap element 3. key=123  data=1.23
+Heap element 4. key=345  data=3.45
+
+Dequeueing 567
+Elements in the heap.
+Heap element 0. key=456  data=4.56
+Heap element 1. key=345  data=3.45
+Heap element 2. key=234  data=2.34
+Heap element 3. key=123  data=1.23
+
+Dequeueing 456
+Elements in the heap.
+Heap element 0. key=345  data=3.45
+Heap element 1. key=123  data=1.23
+Heap element 2. key=234  data=2.34
+
+Dequeueing 345
+Elements in the heap.
+Heap element 0. key=234  data=2.34
+Heap element 1. key=123  data=1.23
+
+Dequeueing 234
+Elements in the heap.
+Heap element 0. key=123  data=1.23
+
+Dequeueing 123
+Elements in the heap.
