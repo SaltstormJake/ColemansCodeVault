@@ -1,0 +1,39 @@
+Sample screen output from running this program.
+
+Set 1 contains 
+==================== Objects in Set ====================
+TRIANGLE    P1=0, 0        P2=1, 1        P3=1, 0
+RECTANGLE   UL Corner=0, 5    Width=5  Height=5
+CIRCLE      center=5, 5    radius=5
+======================================================
+
+
+Set 2 contains 
+==================== Objects in Set ====================
+CIRCLE      center=5, 5    radius=5
+TRIANGLE    P1=0, 0        P2=2, 2        P3=2, 0
+RECTANGLE   UL Corner=0, 10    Width=10  Height=10
+CIRCLE      center=5, 5    radius=3
+======================================================
+
+Union of Set 1 and Set 2 contains 
+==================== Objects in Set ====================
+TRIANGLE    P1=0, 0        P2=1, 1        P3=1, 0
+RECTANGLE   UL Corner=0, 5    Width=5  Height=5
+CIRCLE      center=5, 5    radius=5
+CIRCLE      center=5, 5    radius=5
+TRIANGLE    P1=0, 0        P2=2, 2        P3=2, 0
+RECTANGLE   UL Corner=0, 10    Width=10  Height=10
+CIRCLE      center=5, 5    radius=3
+======================================================
+
+Intersection of Set 1 and Set 2 contains 
+==================== Objects in Set ====================
+CIRCLE    center=5, 5    radius=5
+======================================================
+
+Difference of Set 1 and Set 2 contains 
+==================== Objects in Set ====================
+TRIANGLE     P1=0, 0        P2=1, 1        P3=1, 0
+RECTANGLE    UL Corner=0, 5    Width=5  Height=5
+======================================================
