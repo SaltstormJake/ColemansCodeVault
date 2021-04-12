@@ -1,2 +1,1 @@
-# ColesmansCodeVault
-Various code snippets
+This is a record of the "code vault" Dr. Rick Coleman, a retired Computer Science professor at the University of Alabama in Huntsville, maintains on his personal website. Due to his retirement, the eventual fate of the site is unknown, so I have decided to preserve his code snippets here. With the exception of a few syntax fixes, none of the work here is my own.
